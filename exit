@@ -1,0 +1,115 @@
+[33mcommit 4fbf41564529d1b5fdf82fbc9907685cc3f0083e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: 6afc516 27abb7c
+Author: mateorzan <mateorzan@gmail.com>
+Date:   Fri Jan 10 16:18:18 2025 +0100
+
+    Merge branch 'mateo' of https://github.com/mateorzan/sistemas-bigdata-2024
+
+[33mcommit 6afc516b831fcbdd7ec605ea6024a5041acb19a0[m[33m ([m[1;31morigin/mateo[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: ecd <ecd@fernandowirtz.com>
+Date:   Fri Jan 10 13:22:04 2025 +0100
+
+    scraping notebooks
+
+[33mcommit 273eb7c9cb539e5bccf8523f0bd71e0ac45781c7[m
+Author: ecd <ecd@fernandowirtz.com>
+Date:   Fri Jan 10 13:04:44 2025 +0100
+
+    solutions for api exercises
+
+[33mcommit 27abb7cde2f2c449d1e9d586b2022a91e4a64529[m[33m ([m[1;32mmateo[m[33m)[m
+Author: mateorzan <mateorzan@gmail.com>
+Date:   Tue Dec 3 19:07:49 2024 +0100
+
+    commit
+
+[33mcommit 4e1034b1f31d356e351e316f4e8dfb3727cd8761[m
+Author: mateorzan <mateorzan@gmail.com>
+Date:   Tue Dec 3 19:07:09 2024 +0100
+
+    commit
+
+[33mcommit acc5934a8f887935e46957d35e1657e0d878e2aa[m
+Author: mateorzan <mateorzan@gmail.com>
+Date:   Tue Dec 3 17:37:58 2024 +0100
+
+    a
+
+[33mcommit 920efb4ec2fb55f34c1efd87406fa664324916cf[m
+Author: ecd <ecd@fernandowirtz.com>
+Date:   Tue Dec 3 13:57:30 2024 +0100
+
+    apis ex 2 added
+
+[33mcommit 053d96bb00d469ddd0f435339967a2bf64450577[m
+Author: ecd <ecd@fernandowirtz.com>
+Date:   Tue Dec 3 12:52:23 2024 +0100
+
+    starting with apis
+
+[33mcommit 7c18b7bddacca75dea99c1f62d42b5e0c6121678[m
+Merge: 14f00bb 3cfd8ec
+Author: mateorzan <mateorzan@gmail.com>
+Date:   Tue Nov 26 19:32:57 2024 +0100
+
+    Merge branch 'main' of https://github.com/mateorzan/sistemas-bigdata-2024 into mateo
+
+[33mcommit 14f00bb6a1b0685c74f86134456a0f9a7a05e757[m
+Author: mateorzan <mateorzan@gmail.com>
+Date:   Tue Nov 26 19:17:10 2024 +0100
+
+    listo
+
+[33mcommit 5225fa5a6c431bac9cb9ef5e0af65471d91fec99[m
+Author: mateorzan <mateorzan@gmail.com>
+Date:   Tue Nov 26 19:15:27 2024 +0100
+
+    listo
+
+[33mcommit 3cfd8ec60b0549456d596dd6b89a4f7269313a1d[m[33m ([m[1;31mupstream/main[m[33m)[m
+Author: ecd <ecd@fernandowirtz.com>
+Date:   Tue Nov 26 16:12:04 2024 +0100
+
+    file formats: datasets and notebooks
+
+[33mcommit 4d61ccdab1562599e7f20a43756831fd16b766ed[m
+Author: mateorzan <mateorzan@gmail.com>
+Date:   Wed Nov 20 18:16:45 2024 +0100
+
+    listo
+
+[33mcommit 6bb10f3b4158f71ad35db84a905aa04cca76350a[m
+Author: mateorzan <mateorzan@gmail.com>
+Date:   Wed Nov 20 17:44:36 2024 +0100
+
+    listo
+
+[33mcommit 91a6c74c4589d6e38b9ead13eaa02839181ede5c[m
+Author: ecd <ecd@fernandowirtz.com>
+Date:   Wed Nov 20 12:13:19 2024 +0100
+
+    1, 2 & 3 solutions added
+
+[33mcommit 515ddbbb83d3c03a10e0cad1e5492815399d19d7[m
+Author: ecd <ecd@fernandowirtz.com>
+Date:   Wed Nov 20 12:03:52 2024 +0100
+
+    pandas and excel format
+
+[33mcommit 9c6260317d93f2c6492365e97d17f1d218beb415[m
+Author: ecd <ecd@fernandowirtz.com>
+Date:   Fri Nov 15 14:38:43 2024 +0100
+
+    filter exercises
+
+[33mcommit cf2e2149341119a3c86b67647a1652982e2ab4b0[m
+Author: ecd <ecd@fernandowirtz.com>
+Date:   Tue Nov 5 15:47:52 2024 +0100
+
+    sources in CSV
+
+[33mcommit c5bd1f7f1017580bab26ee16a72e6d921983ac30[m
+Author: bigdatawirtz <91669798+bigdatawirtz@users.noreply.github.com>
+Date:   Tue Nov 5 15:26:16 2024 +0100
+
+    Initial commit
